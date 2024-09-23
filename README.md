@@ -2,16 +2,13 @@
 
 ![](images/welcome.png)
 
-🌟 **LangChain 공식 Document, Cookbook, 그 밖의 실용 예제**를 바탕으로 작성한 한국어 튜토리얼입니다. 
+🌟 **LangChain 공식 Document, Cookbook, 그 밖의 실용 예제**를 바탕으로 작성한 한국어 튜토리얼입니다.
 
 본 튜토리얼을 통해 LangChain을 더 쉽고 효과적으로 사용하는 방법을 배울 수 있습니다.
-
-
 
 ## 📔 위키독스 전자책(무료)
 
 <img src="./images/langchain-note.png" alt="한 권으로 끝내는 랭체인 노트" style="width:200px;height:280px;">
-
 
 위키독스에 **무료** 전자책을 등록하였습니다✌️
 
@@ -22,6 +19,7 @@
 - [랭체인LangChain 노트 by 테디노트](https://wikidocs.net/book/14314) 구경하러 가기
 
 ## 🍿 유튜브
+
 - [🤗 huggingface 에 공개된 오픈모델을 💻 로컬PC 에서 빠르게 실행🔥 해보고 테스트 하는 방법 + 모델 서빙🚀 + 업무자동화🤖 에 적용하는 방법까지!](https://youtu.be/bANQk--Maxs)
 - [👀 코드 기반 답변하는 💻 GitHub 소스코드 기반 Q&A 챗봇🤖 제작기](https://youtu.be/yB8b-lW_5HY)
 - [llama3 출시🔥 로컬에서 Llama3-8B 모델 돌려보기👀](https://youtu.be/12CuUQIPdM4)
@@ -45,7 +43,6 @@
 - [RAG 파이프라인 이해해보기 - 네이버 뉴스기사 기반 Q&A 챗봇 제작](https://youtu.be/1scMJH93v0M)
 - [OpenAI 의 새로운 기능 Assistant API 완벽히 이해해보기](https://youtu.be/-Wne4a-8RlY)
 - [OpenAI 의 새로운 기능 Assistant API 3가지 도구 활용법](https://youtu.be/BMW1NJkL7Ks)
-
 
 ## ✏️ 블로그 글 목록
 
@@ -96,12 +93,11 @@
 - [랭체인 네이버 기사 크롤링 - 우성우님](https://aifactory.space/task/2719/discussion/829)
 - [Gemma와 LangChain을 이용한 SQL 체인만들기 - 김태영님](https://aifactory.space/task/2719/discussion/841)
 
-
 ## 📜 라이선스
 
 본 프로젝트는 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)에 따라 라이선스가 부여됩니다.
 
-### 🚫 라이선스 고지 
+### 🚫 라이선스 고지
 
 🔒 본 내용의 저작권은 2024년 [테디노트](https://teddylee777.github.io)에 있습니다. 모든 권리는 저작권자에게 있으며, teddylee777@gmail.com 으로 문의할 수 있습니다.
 
@@ -151,10 +147,11 @@ limitations under the License.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=teddylee777/langchain-kr&type=Date)](https://star-history.com/#teddylee777/langchain-kr&Date)
 
-
 ## 💡 컨트리뷰션
 
 본 튜토리얼에 기여하고자 하는 분들은 언제든지 풀 리퀘스트를 보내주시거나, 이슈를 등록하여 의견을 공유해 주시기 바랍니다. 모든 기여는 본 프로젝트의 발전에 큰 도움이 됩니다. 💖
 
 <br/>
 <p><a href="https://www.buymeacoffee.com/teddylee777"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teddylee777" /></a></p>
+
+<!-- stuff -->
